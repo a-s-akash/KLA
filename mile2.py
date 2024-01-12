@@ -36,7 +36,7 @@ for ts in range(1,5):
     flag = 0
     m = min(z)
     n = max(z)
-    start = (shifta+refa,shiftb+refb)
+    start = (refa,refb)
     still = True
     remember = []
     pop = 0
